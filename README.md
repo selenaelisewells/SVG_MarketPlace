@@ -1,2 +1,7 @@
 # SVG_MarketPlace
-a marketplace app for SVGs relating to Covid-19 Created by Selena Wells
+10 Svg Icons relating to the Covid-19 Pandemic created by Selena Wells
+
+
+
+
+
