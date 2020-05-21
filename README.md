@@ -1,6 +1,6 @@
 # SVG MarketPlace
 10 Svg Icons relating to the Covid-19 Pandemic created by Selena Wells.
-This is a simple webpage using html, css and javascript.
+This is a simple webpage using html, css and javascript showcasing svg icons themed after the Covid-19 pandemic.
 
 ## Setup and installation
 There is no setup, just clone it down with git.
