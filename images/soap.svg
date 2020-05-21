@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140.17 129.78">
+  <defs>
+    <style>
+      #soap .cls-1 {
+        fill: #f48ebd;
+      }
+
+      #soap .cls-1, #soap .cls-3, #soap .cls-4, #soap .cls-5, #soap .cls-6 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      #soap .cls-1, #soap .cls-3 {
+        stroke-width: 4px;
+      }
+
+      #soap .cls-2 {
+        fill: #ce679b;
+      }
+
+      #soap .cls-3, #soap .cls-5 {
+        fill: none;
+      }
+
+      #soap .cls-4, #soap .cls-6 {
+        fill: #f7cbe2;
+      }
+
+      #soap .cls-4, #soap .cls-5 {
+        stroke-width: 3px;
+      }
+
+      #soap .cls-5, #soap .cls-6 {
+        stroke-linecap: round;
+      }
+
+      #soap .cls-6 {
+        stroke-width: 2.36px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="soap">
+      <g id="soap-2" data-name="soap">
+        <path id="soap-3" data-name="soap" class="cls-1" d="M2.58,75.68c-.85,5.36-.7,15.53,0,21.7s-.35,6.18,4.24,9.18,31.94,18.18,31.94,18.18,11.12,6.35,21.88.7,70.24-40.23,70.24-40.23,6.53-4.15,6.88-15c.45-13.94,2.47-19.95-9.7-25.95s-27.71-15.88-27.71-15.88A29.18,29.18,0,0,0,76,30.32C63.47,37.38,15.58,64.5,15.58,64.5S3.35,70.85,2.58,75.68Z"/>
+        <path id="shadowsSoap" class="cls-2" d="M88.67,35.38c30,7.5,32.45,20.38,32.45,20.38S98.73,43.23,91.13,41s-20,6.9-20,6.9l-1.44-5.27C72.2,40.07,88.67,35.38,88.67,35.38ZM53.46,57.73,50.81,53.9C18.32,66.51,20.2,74.82,20.2,74.82,21.78,76,53.46,57.73,53.46,57.73Z"/>
+        <path id="outlinesSoap" class="cls-3" d="M137.1,52.54a8.11,8.11,0,0,1-.4,5C135.62,60.08,79.35,91.38,64,99.68s-26.65,0-26.65,0-7.94-4.59-21-12.18S2.22,79,2.22,79m20.84-10.2s-7.06,5-1.24,8.39,23.29,13.5,23.29,13.5a16.63,16.63,0,0,0,15.36,0c8.29-4.24,56.82-31.94,56.82-31.94s9.18-4.42-.88-10.42S94.88,36.15,94.88,36.15A18.24,18.24,0,0,0,79.7,37C72.11,41.26,23.06,68.79,23.06,68.79Zm95.55-13.05S96.29,42.85,93.11,41.53s-9-.62-10.58,0S21.82,76.12,21.82,76.12"/>
+        <circle id="bubble6" class="cls-4" cx="80.06" cy="68.08" r="3.58"/>
+        <circle id="bubble5" class="cls-4" cx="59.59" cy="47.61" r="10.12"/>
+        <circle id="bubble4" class="cls-4" cx="30.06" cy="44.19" r="3.42"/>
+        <circle id="bubble3" class="cls-4" cx="66" cy="19.91" r="7.82"/>
+        <circle id="bubble2" class="cls-4" cx="83.11" cy="4.56" r="3.06"/>
+        <circle id="bubble1" class="cls-4" cx="53.82" cy="68.08" r="4.35"/>
+        <path id="highlight" class="cls-5" d="M55.1,49.38s-1.65-5.64,4.35-7.06"/>
+        <path id="highlight-2" data-name="highlight" class="cls-6" d="M62.57,21.94A4.32,4.32,0,0,1,66,16.39"/>
+      </g>
+    </g>
+    <g id="covid-19">
+      <g id="Covid-19-2" data-name="Covid-19">
+        <g id="dots">
+          <g id="coivdDots">
+            <path d="M-333.72,152.76"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
