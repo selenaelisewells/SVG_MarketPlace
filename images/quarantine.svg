@@ -1,37 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="133.95" height="140.93" viewBox="0 0 133.95 140.93">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133.95 140.93">
   <defs>
     <style>
-      .cls-1 {
+      #quarentine .cls-1 {
         fill: #2c5d73;
       }
 
-      .cls-1, .cls-2, .cls-3 {
+      #quarentine .cls-1, #quarentine .cls-2 {
         stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
         stroke-width: 4px;
       }
 
-      .cls-1, .cls-2 {
-        stroke-linecap: round;
-        stroke-linejoin: round;
-      }
-
-      .cls-2, .cls-3 {
+      #quarentine .cls-2 {
         fill: #edbd21;
-      }
-
-      .cls-3 {
-        stroke-miterlimit: 10;
       }
     </style>
   </defs>
-  <title>quarentine</title>
   <g id="Layer_2" data-name="Layer 2">
     <g id="quarentine">
       <g id="quarentine-2" data-name="quarentine">
         <polygon id="house" class="cls-1" points="131.95 66.47 67.48 2 2 67.48 16.39 67.37 16.39 138.93 117.56 138.93 117.56 66.58 131.95 66.47"/>
-        <path id="locktop" class="cls-2" d="M49.08,70.47s0-22.43,18.1-22.64S84.86,70.47,84.86,70.47Z"/>
+        <path id="lock" class="cls-2" d="M49.08,70.47s0-22.43,18.1-22.64S84.86,70.47,84.86,70.47Zm47.3,35.42V82.38a12,12,0,0,0-12-12H49.57a12,12,0,0,0-12,12v23.51a12,12,0,0,0,12,12H84.38A12,12,0,0,0,96.38,105.89Z"/>
         <path id="locktopHole" class="cls-1" d="M56.88,70.47s0-16.11,10.21-16.26,10,16.26,10,16.26Z"/>
-        <rect id="lock" class="cls-3" x="37.57" y="70.38" width="58.81" height="47.5" rx="12"/>
         <path id="lockHole" d="M73.69,85A6.72,6.72,0,1,0,64,91h0l-3.2,12.35a1.65,1.65,0,0,0,1.59,2.06h9.18a1.65,1.65,0,0,0,1.6-2.06L70,91h0A6.71,6.71,0,0,0,73.69,85Z"/>
       </g>
     </g>
