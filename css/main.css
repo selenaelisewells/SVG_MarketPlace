@@ -17,6 +17,14 @@ h1 {
     display: flex;
     flex-direction: column-reverse;
     justify-content: center;
+    position: absolute;
+    right: 0;
+    margin-right: 30px;
+}
+
+.cart:hover {
+    cursor: pointer;
+    background-color: #0b9ba0;
 }
 
 .fa {
@@ -35,10 +43,16 @@ h1 {
 
 .header {
     font-family: Arial, Helvetica, sans-serif;
-    text-align: right;
-    margin-right: 50px;
-    padding: 50px;
+    padding-left: 100px;
+    padding-top: 50px;
     font-size: 30px;
+    text-transform: capitalize;
+}
+
+.arrow {
+    font-size: 80px;
+    position: absolute;
+    color: #087c80;
 }
 
 .svgTitle {
@@ -56,6 +70,7 @@ h1 {
 #mainNav {
     height: 60px;
     background-color: #505B60;
+    display: flex;
 }
 
 #mainNav ul {
@@ -145,13 +160,13 @@ h1 {
 }
 
 .svgIcon:hover {
-    background: #728187;
+    background: #0b9ba0;
     transition: .3s ease-in-out;
+    cursor: pointer;
 }
 
 .selected {
-    /* border-color: black; */
-    background: #505B60;
+    background: #087c80;
     box-shadow: 0px 5px rgba(0, 0, 0, 0.4), 0px 10px rgba(0, 0, 0, 0.3), 0px 15px rgba(230, 38, 38, 0.2), 0px 20px rgba(0, 0, 0, 0.1), 0px 25px rgba(0, 0, 0, 0.05);
     transform: scale(1.2);
     transition: all .30s ease-in-out;
