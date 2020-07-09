@@ -12,8 +12,17 @@ function whenClicked(EventObject) {
     // console.log(EventObject)
 
     clickedIcon.classList.toggle('selected')
+    updateCount()
 }
 
 iconSet.forEach(function(icon) {
     icon.addEventListener('click', whenClicked, true)
 })
+
+
+function updateCount() {
+
+    const countElement = document.querySelector('.count')
+    countElement.dataset.count = document.querySelectorAll('.svgIcon.selected').length
+    countElement.innerHTML = countElement.dataset.count
+}
